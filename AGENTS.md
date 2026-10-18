@@ -1,0 +1,2 @@
+This repo is solely for solving the exercises in the famous book "The C Programming Language" by Ritchie and Kerningham. 
+NEVER EVER solve the exercices completely, just help me when I am stuck. I want to master the C language and want to write all code completely myself.
